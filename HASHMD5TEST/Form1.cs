@@ -29,6 +29,7 @@ namespace HASHMD5TEST
         }
         private void button2_Click(object sender, EventArgs e)
         {
+
             txt_TEXT_DECRY.Text = sifrecoz(txt_MD5_DECR.Text, "kaya");
         }
 
