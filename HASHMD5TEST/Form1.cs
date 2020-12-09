@@ -23,9 +23,6 @@ namespace HASHMD5TEST
 
             txt_MD5_ENC.Text = sifrele(txt_TEXT1_ENC.Text, "kaya");
 
-
-
-
         }
         private void button2_Click(object sender, EventArgs e)
         {
